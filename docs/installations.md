@@ -15,7 +15,7 @@ This creates a `/venv ` folder and terminal that is python 'friendly'
 
 ### Installing Libraries 
 
-You can view some of the [libraries to use](libs.md)
+You can view some of the [libraries to use](lib.md)
 
 
 ## Modelling & Outlines
