@@ -23,7 +23,7 @@ You can view some of the [libraries to use](lib.md)
 **Requirements**
 - You'll need a data set, a large one preferrably
 - Find a suitbale model for use basing on how comfortable or requirements of your project
- - modularize your project with empty or filled __init__.py files . Its recommended you  run   `python create_init_files.py  ` as I might not remember to update as the project grows bigger 
+ - modularize your project with empty or filled __init__.py files . Its recommended you  run   `python create_init_files.py  ` as I might not remember to update as the project grows bigger, [here's the code](autoinit.md)
 
 
 
