@@ -3,4 +3,4 @@ This offers a comprehensive documentation of doing setups. This is more convenie
 
 ### Doing Setups 
 
-
+You can follow the documentation [procedures here](docs/installation.md)
